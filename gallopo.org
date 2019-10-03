@@ -45,7 +45,7 @@
 
 ** Set font size
 
-   I like a slightly larger than usual font. This little helper allows
+   Slightly larger than usual font. This little helper allows
    me to describe and set the font size in "points"
 
    #+BEGIN_SRC emacs-lisp
